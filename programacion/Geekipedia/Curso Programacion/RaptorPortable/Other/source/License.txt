@@ -1,0 +1,5 @@
+RAPTOR is freely distributed as a service to the CS education community.  
+RAPTOR was originally developed by and for the US Air Force Academy, Department of Computer Science, 
+but its use has spread and RAPTOR is now used for CS education in over 17 countries on at least 4 continents.
+
+RAPTOR is free software, but donations to support web hosting, etc. are welcome!
