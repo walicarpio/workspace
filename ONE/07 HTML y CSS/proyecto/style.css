@@ -1,0 +1,7 @@
+body {
+    background-color: var(--color-primario);
+    color: var(--color-secundario);
+}
+strong {
+    color: var(--color-terciario);
+}
