@@ -1,0 +1,7 @@
+hola,
+mi nombre es Eduardo Berrios
+
+Este es mi primer file realizado con Nano
+Esta e sla leccion sobre el editor nano.
+
+abcde
