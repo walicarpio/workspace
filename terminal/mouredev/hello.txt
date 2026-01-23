@@ -1,0 +1,9 @@
+Eduardo
+Hola
+.
+├── Guia_rápida_de_Bash_Shell.pdf
+├── hello.txt
+├── nuevo.txt
+└── test
+
+2 directories, 3 files
